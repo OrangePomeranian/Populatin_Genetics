@@ -1,1 +1,1 @@
-# Populatin_Genetics
+# Population_Genetics
